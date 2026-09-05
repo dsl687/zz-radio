@@ -1,13 +1,13 @@
 {
-  "version": "1.0.0.0020",
-  "timestamp": "2026-09-04T22:22:53-03:00",
+  "version": "1.0.0.0021",
+  "timestamp": "2026-09-04T22:34:40-03:00",
   "author": "Pipeline",
   "databases": [
     {
       "filename": "FILENAME",
       "hash": {
         "algorithm": "sha256",
-        "value": "ecfccdbaef4b115c073d064af99c40483028175caceb39827ad54f7b60a3a05b"
+        "value": "c1b672dc09ffdff6963dad08bc075c46a8949834ae69ba40ce7be8c5b7729a37"
       },
       "download_url": "/c9c9j49zohe8xd9nr57tp/$FILENAME?rlkey=i3erwpu0rd8erhed0h6l5vxic"
     }
